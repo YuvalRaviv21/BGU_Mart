@@ -11,6 +11,7 @@ The database filename will be bgumart.db.
 You will have to implement three Python modules: initiate.py, action.py, and printdb.py.
 
 **The Database Structure**
+
 The database bgumart.db has five tables.
 
 Employees: This table holds information about the employees.
